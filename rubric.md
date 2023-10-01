@@ -18,7 +18,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 **YES** 1 pt: Program carries out requested number of conversation rounds
 
-**PART** 1 pt: Allocates static array of canned responses
+**YES** 1 pt: Allocates static array of canned responses
 
 ### Level 2 (3 pts)
 
@@ -52,9 +52,9 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 **YES** 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
-**PART** 2 pt: Complies with style guidelines (missing items 1 pt each):
+**YES** 2 pt: Complies with style guidelines (missing items 1 pt each):
 
-      **NO** Classes & class members all have Javadoc header comments
+      **Yes** Classes & class members all have Javadoc header comments
 
       **YES** Clear and consistent indentation of bracketed sections
 
